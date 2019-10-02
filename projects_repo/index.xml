@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects_repos on Edoardo Altamura</title>
+    <link>https://edoaltamura.github.io/projects_repo/</link>
+    <description>Recent content in Projects_repos on Edoardo Altamura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://edoaltamura.github.io/projects_repo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MACSIS</title>
+      <link>https://edoaltamura.github.io/projects_repo/macsis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edoaltamura.github.io/projects_repo/macsis/</guid>
+      <description>Substructures in galaxy clusters | Master thesis Observability study using the MACSIS hydrodynamical simulation and Sunyaev-Zel’dovich signals What is MACSIS? MACSIS stands for MAssive ClusterS and Intercluster Structures. It is a project consisting in the simulation of a collection of extraordinarily large galaxy clusters. The total mass of these clusters varies between 1015 M&amp;odot; and 1016 M&amp;odot;, making them an incredibly good representation of the most massive, rarest and youngest astrophysical objects that we would ever observe in our Universe.</description>
+    </item>
+    
+  </channel>
+</rss>
