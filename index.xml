@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edoardo Altamura</title>
+    <link>https://edoaltamura.github.io/</link>
+    <description>Recent content on Edoardo Altamura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://edoaltamura.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://edoaltamura.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edoaltamura.github.io/about/</guid>
+      <description>Introduction I am a Ph.D. candidate in Astrophysics and Cosmology, based at the Jodrell Bank Centre for Astrophysics (JBCA) and affiliated to the University of Manchester. My main areas of research revolve around galaxy clusters, cosmological simulations with supercomputers and large scale structures in the Universe.
+In 2019, I graduated with a Master Degree from the University of Manchester with the thesis &amp;ldquo;Substructures in galaxy clusters: observability study using the MACSIS hydrodynamical simulation and Sunyaev-Zel’dovich signals&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Projects &amp; Research</title>
+      <link>https://edoaltamura.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edoaltamura.github.io/projects/</guid>
+      <description>Substructures in galaxy clusters | Master thesis Observability study using the MACSIS hydrodynamical simulation and Sunyaev-Zel’dovich signals Abstract: In the Lambda Cold Dark Matter cosmology, galaxy clusters are the latest objects to have formed in a process known as hierarchical structure formation. As a result, clusters should retain some memory of smaller objects (galaxy groups, or sub-halos) that have merged over the past few billion years, leading to a complex internal substructure.</description>
+    </item>
+    
+    <item>
+      <title>Notes</title>
+      <link>https://edoaltamura.github.io/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edoaltamura.github.io/notes/</guid>
+      <description>Cosmology of the Early Universe Keywords: Cosmology Inflation Perturbative theory Cosmic Microwave Background
+The Early Universe PHYS 40772 is a lecture course taught at the University of Manchester for the degree of Master in Physics and Astrophysics. It is a level-4 course, which follows up from the PHYS 40771 course on Gravitation and the General Theory of Relativity. These are the sets of notes I have taken during the semester (Jan - May 2019), with later typesetting and content edits.</description>
+    </item>
+    
+    <item>
+      <title>MACSIS</title>
+      <link>https://edoaltamura.github.io/projects_repo/macsis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edoaltamura.github.io/projects_repo/macsis/</guid>
+      <description>Substructures in galaxy clusters | Master thesis Observability study using the MACSIS hydrodynamical simulation and Sunyaev-Zel’dovich signals What is MACSIS? MACSIS stands for MAssive ClusterS and Intercluster Structures. It is a project consisting in the simulation of a collection of extraordinarily large galaxy clusters. The total mass of these clusters varies between 1015 M&amp;odot; and 1016 M&amp;odot;, making them an incredibly good representation of the most massive, rarest and youngest astrophysical objects that we would ever observe in our Universe.</description>
+    </item>
+    
+  </channel>
+</rss>
