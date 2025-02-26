@@ -23,6 +23,7 @@ jobs:
       # Install dependencies
       - name: Install dependencies
         run: npm install
+        working-directory: ./build
 
       # Build your project (ensure it outputs to the /build directory)
       - name: Build project
