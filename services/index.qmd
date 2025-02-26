@@ -1,0 +1,28 @@
+---
+title: "Services"
+listing:
+  - id: professional
+    type: default
+    contents: professional.yml
+    sort: "date desc"
+    categories: true
+    fields: [image, year, title, categories, description, client]
+page-layout: full
+toc: false
+toc-location: right
+toc-title: Type
+---
+
+I have helped clients and research partners achieve their goals by providing services such as:
+
+- Data science and information design
+- Technical review for books and articles
+
+If you are looking for consulting support to tackle data science, visualization and technical
+writing tasks, contact me by [e-mail](mailto:edoardo.altamura@stfc.ac.uk) or on
+[LinkedIn](https://www.linkedin.com/in/edoardoaltamura/).
+
+### Portfolio
+
+:::{#professional}
+:::

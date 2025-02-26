@@ -1,0 +1,10 @@
+- path: https://doi.org/10.1093/mnras/stad342
+  title: EAGLE-like simulation models do not solve the entropy core problem in groups
+    and clusters of galaxies
+  subtitle: Monthly Notices of the Royal Astronomical Society
+  date: '2023-04-00'
+  author: '**Altamura, Edoardo** *et al.*'
+  description: 'The first systematic study of the long-standing entropy-core problem, from the 
+  EAGLE-XL project.'
+  image: ../static/img/entropy_core_group.png
+  

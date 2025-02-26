@@ -1,0 +1,22 @@
+---
+title: "Teaching"
+listing:
+  - id: teaching
+    type: table
+    contents: teaching.yml
+    sort: "date desc"
+    categories: true
+    fields: [year, title, organization, description]
+    field-display-names:
+        year: "Year(s)"
+        title: "Course"
+        organization: "Host"
+        description: "Details"
+page-layout: full
+toc: true
+toc-location: right
+toc-title: Type
+---
+
+:::{#teaching}
+:::

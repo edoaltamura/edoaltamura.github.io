@@ -1,0 +1,38 @@
+---
+title: "Publications"
+date: last-modified
+listing:
+  - id: featured
+    type: default
+    contents: featured.yml
+    sort: "date desc"
+    categories: false
+    fields: [image, date, title, subtitle, author, description]
+  - id: publications
+    type: table
+    contents: publications.yml
+    sort: "date desc"
+    categories: false
+    fields: [date, title, subtitle, author, description]
+    field-display-names:
+        subtitle: "Journal"
+        author: "Authors"
+        description: "Cited by"
+page-layout: full
+toc: true
+toc-location: right
+toc-title: Type
+---
+
+### Featured
+
+
+:::{#featured}
+:::
+
+### All
+The following list is based on data retrieved from
+[NASA ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0001-6973-1897&sort=date).
+
+:::{#publications}
+:::

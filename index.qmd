@@ -1,0 +1,104 @@
+---
+title: "Edoardo Altamura, Ph.D."
+image: static/img/headshot.jpg
+toc: false
+callout-appearance: minimal
+about: 
+    template: trestles
+    image-shape: round
+    image-width: 15em
+    links:
+    - text: GitHub
+      href: https://github.com/edoaltamura
+      icon: github
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/edoardoaltamura/
+    - text: Email
+      href: mailto:edoardo.altamura@stfc.ac.uk
+      icon: envelope-fill
+    - text: ORCID
+      href: https://orcid.org/0000-0001-6973-1897
+      icon: orcid
+    - text: NASA ADS
+      icon: ads
+      href: https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0001-6973-1897&sort=date%20desc%2C%20bibcode%20desc
+    - text: Google Scholar
+      icon: google-scholar
+      href: https://scholar.google.com/citations?user=ThGKWoUAAAAJ&hl=en
+---
+
+### Hi there! 👋
+
+I am a UK-based quantum research software engineer at the Hartree Centre, a national lab doing
+research in AI and emerging technologies. Here, I run collaboration projects with IBM Quantum & IBM
+Research, AstraZeneca, the University of Cambridge, and other research partners.
+
+Previously, I was a postdoctoral researcher at the University of Manchester, [Jodrell Bank Centre
+for Astrophysics](https://www.jodrellbank.manchester.ac.uk/), doing research in galaxy cluster
+astrophysics using numerical multi-physics simulations and high-performance computers.
+
+I am a core developer of [Qiskit Machine Learning](https://github
+.com/qiskit-community/qiskit-machine-learning), a community product that can help you build and run
+machine learning workloads on quantum computers seamlessly using Qiskit.
+
+As an individual passionate about data science and visualization, I have helped organizations and
+publishers elevate their projects by providing technical [services](./services/index.qmd). Find out
+more about my portfolio and [contact me](mailto:edoardo.altamura@stfc.ac.uk) if you're interested in
+collaborating on an interesting project.
+
+::: {.callout-note collapse="true" title="💼 Institutional positions" icon="false"}
+#### Current roles
+
+Quantum Research Software Engineer -
+[Hartree Centre, STFC](https://neuroinformatics.dev/)
+
+- PI of the STFC project account with the University of Cambridge, and
+- the IBM high-energy physics working group
+- Co-PI of the STFC partnership with AstraZeneca on post-BO chemical dynamics
+
+Visiting Research Fellow -
+[University of Cambridge](https://www.ch.cam.ac.uk/)
+
+- Working directly with Prof. David Wales' group and collaborating with the theoretical chemistry
+group.
+
+Visiting Research Fellow - [University of Manchester](https://www.jodrellbank.manchester.ac.uk/)
+
+- [Virgo Consortium](https://virgo.dur.ac.uk/) for Computational Cosmology Research
+- [Euclid](https://www.euclid-ec.org/) space mission Consortium (Science Working Group,
+Cosmology Theory)
+- [CMB Stage-4](https://cmb-s4.org/) experiments Collaboration
+
+#### Previous roles
+
+Postdoctoral Research Fellow - [University of Manchester](https://www.jodrellbank.manchester.ac.uk/)
+
+- Particles At heXascale (PAX) program within [ExCALIBUR](https://excalibur.ac.uk/)
+- [Virgo Consortium](https://virgo.dur.ac.uk/) for Computational Cosmology Research
+- EAGLE-XL Collaboration in the [Virgo Consortium](https://virgo.dur.ac.uk/)
+:::
+
+::: {.callout-note collapse="true" title="📝 Bio" icon="false"}
+I was born in Macerata, a small town in central Italy, where I lived until high-school.
+
+There, I was attending public stargazings, hosted at PF de Vico astronomical observatory, managed
+ by the Crabnebula astronomy society. I can safely state that this is how all my interest in
+ astronomy, physics and science in general begun. Soon after, I completed in the Italian
+ Astronomy Olympiads (years 2011 - 2014) and the International Astronomy Olympiads (Almaty,
+ Kazakhstan 2011 & Vilnius, Lithuania 2013).
+
+Roughly simultaneously to the Astronomy Olympiads, I also developed a passion for the most
+“hands-on” aspects of Astronomy and I decided to invest in a Celestron Starbright C9.25, SkyWatcher
+NEQ6 and a Canon EOS 1100D - my first proper telescope and camera setups. Despite the gear not
+being optimised for long exposures on very faint celestial objects, I managed to observe and capture
+several nebulae and star clusters, with several exceptional views on the moon and planets during nights
+with good seeing. On 6th June 2012 I finished building a mylar-based solar filter at the very last
+minuted just in time for Venus’s transit in front of the Sun. Luckily, the sky was partially clear
+towards the East, and together with the Crabnebula Astronomy society members we watched the sunrise
+when Venus was just about to cross the Sun's disk.
+
+Several more special events brightened up my experience with many new incredible friends, fellow
+astronomy enthusiasts and even professionals, encouraging me to start a Masters and Ph.D. degrees in
+Astrophysics and Cosmology at Jodrell Bank Centre for Astrophysics, University of Manchester.
+:::

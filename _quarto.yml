@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: build
+
+website:
+  title: "Edoardo Altamura"
+  favicon: /static/img/favicon/favicon-32x32.png
+  open-graph: true
+  site-url: "https://edoaltamura.github.io"
+  image: /static/img/headshot.jpg
+  description: "Edoardo's personal website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications/index.qmd
+        text: Publications
+      - href: projects/index.qmd
+        text: Projects
+      - href: services/index.qmd
+        text: Services
+      - href: teaching/index.qmd
+        text: Teaching
+#      - href: blog/index.qmd
+#        text: Blogposts
+
+    right:
+      - icon: github
+        href: https://github.com/edoaltamura
+      - icon: linkedin
+        href: https://www.linkedin.com/in/edoardoaltamura/
+
+format:
+  html:
+    theme:
+      light: [flatly, styles.scss]
+      dark: [darkly, styles-dark.scss]
+    toc: true
+    page-layout: full
+    mainfont: "Barlow"
+    monofont: "JetBrains Mono"

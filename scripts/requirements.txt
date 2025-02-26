@@ -1,0 +1,4 @@
+pyalex
+ads
+pre-commit
+python-dotenv

@@ -1,0 +1,79 @@
+- path: https://doi.org/10.48550/arXiv.2312.11596
+  title: Building models of the Universe with hydrodynamic simulations
+  subtitle: Ph.D. Thesis
+  date: '2023-12-00'
+  author: '**Altamura, Edoardo**'
+  description: '0'
+- path: https://doi.org/10.1093/mnras/stad1841
+  title: Galaxy cluster rotation revealed in the MACSIS simulations with the kinetic
+    Sunyaev-Zeldovich effect
+  subtitle: Monthly Notices of the Royal Astronomical Society
+  date: '2023-09-00'
+  author: '**Altamura, Edoardo** *et al.*'
+  description: '9'
+- path: https://doi.org/10.1093/mnras/stad342
+  title: EAGLE-like simulation models do not solve the entropy core problem in groups
+    and clusters of galaxies
+  subtitle: Monthly Notices of the Royal Astronomical Society
+  date: '2023-04-00'
+  author: '**Altamura, Edoardo** *et al.*'
+  description: '16'
+- path: https://doi.org/10.3847/1538-3881/ab6e67
+  title: Serendipitous Discovery of a Physical Binary Quasar at z = 1.76
+  subtitle: The Astronomical Journal
+  date: '2020-03-00'
+  author: '**Altamura, Edoardo** *et al.*'
+  description: '1'
+- path: https://ui.adsabs.harvard.edu/abs/18712912/abstract
+  title: Discovery of a binary quasar at z = 1.76
+  subtitle: Contributions of the Astronomical Observatory Skalnate Pleso
+  date: '2019-12-00'
+  author: '**Altamura, Edoardo** *et al.*'
+  description: '0'
+- path: https://doi.org/10.48550/arXiv.2409.10739
+  title: Evolving a Multi-Population Evolutionary-QAOA on Distributed QPUs
+  subtitle: arXiv e-prints
+  date: '2024-09-00'
+  author: Schiavello, Francesca, **Altamura, Edoardo** *et al.*
+  description: '0'
+- path: https://doi.org/10.1093/mnras/stad453
+  title: Gas clumping and its effect on hydrostatic bias in the MACSIS simulations
+  subtitle: Monthly Notices of the Royal Astronomical Society
+  date: '2023-04-00'
+  author: Towler, Imogen, Kay, Scott T., **Altamura, Edoardo**
+  description: '11'
+- path: https://doi.org/10.1093/mnras/stad2928
+  title: The impact of stochastic modelling on the predictive power of galaxy formation
+    simulations
+  subtitle: Monthly Notices of the Royal Astronomical Society
+  date: '2023-12-00'
+  author: Borrow, Josh *et al.*
+  description: '30'
+- path: https://doi.org/10.48550/arXiv.2409.03523
+  title: Euclid preparation. Simulations and nonlinearities beyond $\Lambda$CDM. 2.
+    Results from non-standard simulations
+  subtitle: arXiv e-prints
+  date: '2024-09-00'
+  author: "R\xE1cz, G. *et al.*"
+  description: '0'
+- path: https://doi.org/10.1093/mnras/stae654
+  title: Inferring the dark matter splashback radius from cluster gas and observable
+    profiles in the FLAMINGO simulations
+  subtitle: Monthly Notices of the Royal Astronomical Society
+  date: '2024-04-00'
+  author: Towler, Imogen *et al.*
+  description: '8'
+- path: https://doi.org/10.48550/arXiv.2409.03522
+  title: Euclid preparation. Simulations and nonlinearities beyond $\Lambda$CDM. 1.
+    Numerical methods and validation
+  subtitle: arXiv e-prints
+  date: '2024-09-00'
+  author: Adamek, J. *et al.*
+  description: '2'
+- path: https://doi.org/10.48550/arXiv.2409.03524
+  title: Euclid preparation. Simulations and nonlinearities beyond $\Lambda$CDM. 4.
+    Constraints on $f(R)$ models from the photometric primary probes
+  subtitle: arXiv e-prints
+  date: '2024-09-00'
+  author: Koyama, K. *et al.*
+  description: '5'

@@ -1,0 +1,17 @@
+- path: https://github.com/edoaltamura/core-entropy-evolution
+  title: Entropy-core evolution with the SWIFT-EAGLE model
+  description: "Data products from hydrodynamic simulations of groups and clusters of galaxies 
+  showing entropy excess from the SWIFT-EAGLE model. Data from Altamura et al. (in preparation)."
+  categories: [Dataset, Research]
+- path: https://github.com/edoaltamura/entropy-core-problem
+  title: Entropy-core problem with the SWIFT-EAGLE model at $z=0$
+  description: "Data products from hydrodynamic simulations of groups and clusters of galaxies 
+  showing entropy excess from the SWIFT-EAGLE model. Data from 
+  [Altamura et al. (2023)](https://doi.org/10.1093/mnras/stad342)."
+  categories: [Dataset, Research]
+- path: https://github.com/edoaltamura/rotational-ksz-macsis
+  title: Rotational kinetic SZ effect in galaxy clusters from the MACSIS simulations
+  description: "Theoretical forecasts for kSZ signatures from cluster rotation for next-gen CMB 
+  foreground experiments. Data from 
+  [Altamura, Kay, Chluba & Towler (2023)](https://doi.org/10.1093/mnras/stad1841)."
+  categories: [Dataset, Research]

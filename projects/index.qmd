@@ -1,0 +1,36 @@
+---
+title: "Projects"
+listing:
+  - id: active
+    type: grid
+    contents: active.yml
+    sort: "date desc"
+    categories: true
+    fields: [image, title, categories, description]
+  - id: past
+    type: table
+    contents: past.yml
+    sort: "date desc"
+    categories: true
+    fields: [image, title, categories, description]
+page-layout: full
+toc: true
+toc-location: right
+toc-title: Type
+---
+
+A selection of projects I'm currently working on or have contributed to in the past.
+Each entry links to the project's website, code or data repository.
+Many of these are collaborative efforts, but I've chosen to highlight those
+where I played a key role in their launch or development.
+
+### Active
+
+
+:::{#active}
+:::
+
+### Past
+
+:::{#past}
+:::

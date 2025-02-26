@@ -1,0 +1,34 @@
+- path: https://www.manning.com/books/quantum-programming-in-depth
+  date: 2024-05-07
+  image: ../static/img/manning_quantum_book_small.jpg
+  title: Technical reviewer and editor
+  description: "Book _Quantum Programming in Depth, solving problems with Q# and Qiskit_ by 
+  Mariia Mykhailova (Microsoft Research)."
+  client: Manning Publications Co.
+  categories: [Review]
+- path: https://op.europa.eu/en/publication-detail/-/publication/c04f6162-3833-11ef-b441-01aa75ed71a1/language-en/format-PDF/source-search and https://op.europa.eu/en/publication-detail/-/publication/74ab99ab-381b-11ef-b441-01aa75ed71a1/language-en/format-PDF/source-search
+  date: 2024-05-01
+  image: ../static/img/european_commission.svg
+  title: 2024 digital decade eHealth indicator study
+  description: "Developed data analysis pipeline in Python and graphics for the study report."
+  client: The Publications Office of the European Union & Capgemini Invent Netherlands
+  categories: [Data science, Data visualization]
+- path: https://data.europa.eu/en/publications/open-data-maturity/2023
+  date: 2023-12-01
+  image: ../static/img/data_europa_eu.png
+  title: Open Data in Europe 2023 report
+  description: "Developed data analysis pipeline in Python and graphics for the study report."
+  client: The Publications Office of the European Union & Capgemini Invent Netherlands
+  categories: [Data science, Data visualization]
+- path: https://data.europa.eu/en
+  date: 2024-01-01
+  image: ../static/img/data_europa_eu.png
+  title: Data stories for data.europa.eu
+  description: "Developed graphics for the following data stories: _Open Data Maturity Report 2022: 
+  Countries’ perspectives on their 
+  open data policy_ ([Oct 2023](https://data.europa.eu/en/publications/datastories/open-data-maturity-report-2022-countries-perspectives-their-open-data-0)); 
+  _Open data maturity in Europe in 2023_ 
+  ([Feb 2024](https://data.europa.eu/en/publications/datastories/open-data-maturity-europe-2023))."
+  client: The Publications Office of the European Union & Capgemini Invent Netherlands
+  categories: [Data science, Data visualization]
+

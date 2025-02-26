@@ -1,0 +1,15 @@
+- path: https://github.com/qiskit-community/qiskit-machine-learning
+  title: Qiskit Machine Learning
+  description: "Python library for quantum machine learning at scale using Qiskit."
+  image: ../static/img/qml.png
+  categories: [Software]
+- path: https://doi.org/10.48550/arXiv.2409.10739
+  title: Quantum evolutionary optimization
+  description: "Optimization algorithms based on evolutionary approaches for variational problems."
+  image: ../static/img/genetic_qaoa.png
+  categories: [Software, Research]
+- path: https://www.hartree.stfc.ac.uk/
+  title: Quantum molecular encoding
+  description: "Encoding molecular information in quantum machine learning."
+  image: ../static/img/molecular_encodings.jpg
+  categories: [Software, Research]

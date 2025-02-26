@@ -1,0 +1,35 @@
+- path: https://mytutor.co.uk
+  year: 2018-present
+  title: STEM subjects, IB, A-level, GCSE
+  description: "Certified one-to-one tutoring in Maths, Physics, and Computer Science. Over 800 
+  lessons delivered, rated 5/5-star."
+  organization: MyTutor.co.uk
+  categories: [Tutoring]
+- path: https://www.physics.manchester.ac.uk/
+  year: 2019-2020
+  title: Object-oriented programming in C++
+  description: "Teaching assistant in computing labs and final exam projects. Third-year course 
+  at the department of Physics and Astronomy."
+  organization: The University of Manchester
+  categories: [University]
+- path: https://www.physics.manchester.ac.uk/
+  year: 2020-2023
+  title: Undergraduate programming in Python
+  description: "Teaching assistant in computing labs and final exam projects. Second- 
+  (now first-)year course at the department of Physics and Astronomy."
+  organization: The University of Manchester
+  categories: [University]
+- path: http://dsi-program.com/
+  year: 2022
+  title: Africa Data-Science Intensive program
+  description: "Supervised groups of students in a workshop series about learning
+  machine-learning techniques and using them in real-world data-science projects."
+  organization: South-African Radio-Astronomy Observatory and SKA Organization
+  categories: [Workshop]
+- path: https://www.linkedin.com/company/isophotehq/
+  year: 2019
+  title: Star-STEM summer program
+  description: "Supervised groups of students working on astronomy and astrophysics projects as 
+  part of summer internships."
+  organization: Star-STEM
+  categories: [Internships]
